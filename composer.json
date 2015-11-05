@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Logging for PHP 5.3",
     "keywords": ["log","testing"],
-    "homepage": "example.com",
+    "homepage": "http://www.example.com",
     "license": "MIT",
     "authors": [
         {
